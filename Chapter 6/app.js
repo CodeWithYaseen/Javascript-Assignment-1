@@ -1,5 +1,7 @@
 // // // console.log("JavaScript connected");
 
+// Q#1
+
 // // // var a = 10;
 // // // document.writeln("<h2>Result :</h2>");
 // // // document.writeln("The Value of a is: " , a , "<br/>");
@@ -14,6 +16,9 @@
 // // // document.writeln("The value of a-- is:  ",a--  , "<br/>");
 // // // document.writeln("Now the value of a is: ", a  , "<br/>");
 
+
+// Q#2
+
 // // var a = 2 ;
 // // var b = 1;
               
@@ -22,8 +27,13 @@
 // // document.writeln("b = ",b, " ;<br/>");
 // // document.writeln("result ", result ," ;");
 
+
+// Q#3
+
 // // var name = prompt("Wellcom to our First Website! \n Please enter your name here");
 // // document.writeln("Thanks " ,  name , " for visiting out site "); 
+
+// Q#5
 
 // // var number = prompt("enter a number")||5;
 
@@ -37,6 +47,8 @@
 // // document.writeln(number," x 8 = " , number * 8 , "<br/>")
 // // document.writeln(number," x 9 = " , number * 9 , "<br/>")
 // // document.writeln(number," x 10 = " , number * 10 , "<br/>")
+
+// Q#6
 
 // var subject_1 = prompt("Enter your first subject name");
 // var subject_2 = prompt("Enter your second subject name");

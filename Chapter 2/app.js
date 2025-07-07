@@ -1,13 +1,22 @@
 // console.log("JavaScript Connected");
+
 // Q#1
+
 // var userName;
+
 // Q#2
+
 // var myName = "Muhammad Yaseen";
+
+
 // Q#3
+
 // var messege;
 // messege = "Hello World";
 // alert(messege);
+
 // Q#4
+
 // var student_name = "Muhammad Yaseen";
 // var fathers_name = "Kamal uddin";
 // var age = 18;
@@ -41,7 +50,7 @@
 
 // Q#8
 
-document.writeln("Yah! I can write HTML content through JavaScript");
+// document.writeln("Yah! I can write HTML content through JavaScript");
 
 // Q#9
 

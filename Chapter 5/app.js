@@ -1,3 +1,5 @@
+// Q#1
+
 // Addition 
 
 // var a = 5;
@@ -5,6 +7,8 @@
 // var result = a + b;
 
 // document.writeln("Sum of 5 and 3 is " , result);
+
+// Q#2
 
 // Substraction
 
@@ -37,7 +41,7 @@
 // document.writeln("Divide of "+ i + " and " + h + " is " , answer);
 
 
-// Q#2
+// Q#3  
 
 // var num ;
 // document.writeln("Value after Variable declearation is " , num , "<br/>");
@@ -108,6 +112,7 @@
 
 // document.writeln("<h3>Total Cost of your order is " , (priceOfItem1 * quaintityOfItem1) +  (priceOfItem2 * quaintityOfItem2)  + shipingCharger ," </h3>");
 
+// Q#8
 
 // document.writeln("<h1>Marks Sheet</h1>  <br/>");
 // var totalMarks = 980;
@@ -115,6 +120,8 @@
 // document.writeln("Total Marks " , totalMarks , "<br/>");
 // document.writeln("Obtained Marks " , obtainedMarks , "<br/>");
 // document.writeln(obtainedMarks*100/totalMarks,"%");
+
+// Q#9
 
 // document.writeln("<h1> Currency in PRK </h1>");
 
@@ -127,6 +134,7 @@
 // document.writeln("Result " , ((num + 5)* 10) / 2 )
 
 // Q#11
+
 // document.writeln("<h1>Age Calculator!</h1>")
 
 // var currentYear = 2025;
@@ -134,12 +142,16 @@
 
 // console.log(currentYear - bithYear);
 
+// Q#12
+
 // var radius = 20;
 // var pi = 3.142
 // document.writeln("<h1>The Geometrizer </h1>");
 // document.writeln("Radius of a circle is " , radius , "<br/>");
 // document.writeln("The circumference is: ", 2*pi*radius ,"<br/>");
 // document.writeln("The Area of a circle is: ",pi*radius**2 );
+
+// Q#13
 
 // var favouriteSnake = "Janoon";
 // var currentAge = 15;

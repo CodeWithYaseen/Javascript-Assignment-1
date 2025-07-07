@@ -1,5 +1,3 @@
-console.log("JavaScript Connected");
-
 // Chapter #3 Variable For Number 
 
 // Q#1 
